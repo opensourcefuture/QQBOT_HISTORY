@@ -4,14 +4,15 @@
 ***
 首先是晨风机器人的作者被抓。  
 <img src="https://pic4.zhimg.com/50/v2-1e05cb8f7c52fe4726eb6d7331e77eaa_hd.jpg?source=1940ef5c" data-rawwidth="720" data-rawheight="1183" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-7cd7d24d5a05a60d715e5695d0083a9c_hd.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" width="720" data-original="https://pic3.zhimg.com/v2-1e05cb8f7c52fe4726eb6d7331e77eaa_r.jpg?source=1940ef5c"/>  
+
 引用论坛大佬的话  
->最近晨风机器人的作者被抓了  
-导致同样类型的酷q现在关闭了论坛和登陆验证(跑路前兆)至少目前大家所用的公主连接机器人   
-如果是能在群里直接带图片抽卡，带图片查竞技场的 绝大部分都是使用的酷q  
-少部分使用的mirai  
-但是酷q如果倒了mirai应该也是快了(mirai已经在关闭入群验证，同时删github库了)  
-在可预见的几天内 大家的机器人即将不能再使用带图片的抽卡模拟以及几乎所有目前可用的娱乐功能了  
-至于单纯报刀功能的yobot 未来可能不会在做任何更新了 但是保守估计 应该还能用  
+>最近晨风机器人的作者被抓了  <br><br>
+导致同样类型的酷q现在关闭了论坛和登陆验证(跑路前兆)至少目前大家所用的公主连接机器人   <br><br>
+如果是能在群里直接带图片抽卡，带图片查竞技场的 绝大部分都是使用的酷q  <br><br>
+少部分使用的mirai  <br><br>
+但是酷q如果倒了mirai应该也是快了(mirai已经在关闭入群验证，同时删github库了)  <br><br>
+在可预见的几天内 大家的机器人即将不能再使用带图片的抽卡模拟以及几乎所有目前可用的娱乐功能了  <br><br>
+至于单纯报刀功能的yobot 未来可能不会在做任何更新了 但是保守估计 应该还能用  <br><br>
 接着啊！酷q也不能用了（Air版，pro版本的账号到期后也会关闭），Air版的话，如果仍正常使用的，刷新后将无法使用。
 <img src="https://pic1.zhimg.com/50/v2-cb8f9a64d035de349ff2488316ae7543_hd.jpg?source=1940ef5c" data-rawwidth="998" data-rawheight="1688" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-a6087f5ac983cdb577f8736579c0c0ab_hd.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" width="998" data-original="https://pic2.zhimg.com/v2-cb8f9a64d035de349ff2488316ae7543_r.jpg?source=1940ef5c"/>
 <img src="https://pic1.zhimg.com/50/v2-ac221ea6c7052cfc445c868f48e42b15_hd.jpg?source=1940ef5c" data-rawwidth="816" data-rawheight="622" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-c73be2c5bb434b27b82beb7234c2959d_hd.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" width="816" data-original="https://pic1.zhimg.com/v2-ac221ea6c7052cfc445c868f48e42b15_r.jpg?source=1940ef5c"/>
