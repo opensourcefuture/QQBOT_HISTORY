@@ -1,10 +1,5 @@
 # QQBOT_HISTORY
 
-作者：Moqzekun
-链接：https://www.zhihu.com/question/411466505/answer/1378815302
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 唉，群聊机器人の末日
 ***
 首先是晨风机器人的作者被抓。  
@@ -29,8 +24,22 @@
 以后啊再也没有24小时在电脑前，对群内指定关键字进行响应回复，定时推送指定渠道更新内容，准点报时的机器人啦！<img src="https://pic4.zhimg.com/50/v2-5f088a554faafb1ca6f673aaa0fcd5c9_hd.jpg?source=1940ef5c" data-rawwidth="1920" data-rawheight="1080" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-b51b05aa320aa2e0c5f5e07fc0043df6_hd.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" width="1920" data-original="https://pic3.zhimg.com/v2-5f088a554faafb1ca6f673aaa0fcd5c9_r.jpg?source=1940ef5c"/>
 愿我们能在更开放的平行世界相遇
  ——酷Q机器人官网<img src="https://pic2.zhimg.com/50/v2-610593427dbe79a915bc6530fd8651a8_hd.jpg?source=1940ef5c" data-rawwidth="1500" data-rawheight="2001" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-7f02fc4cfbdeae7d800ac492a02e95d4_hd.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" width="1500" data-original="https://pic2.zhimg.com/v2-610593427dbe79a915bc6530fd8651a8_r.jpg?source=1940ef5c"/>
+
+
  >全剧·终  
- 
  很喜欢你，但到此为止，谢谢你的出现。  
- 
-——契约机器人官网好啦，债见。  
+——契约机器人官网
+
+<br><br><br><br>
+好啦，债见。  
+<br><br><br><br><br>
+
+
+
+
+
+
+作者：Moqzekun
+链接：https://www.zhihu.com/question/411466505/answer/1378815302
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
