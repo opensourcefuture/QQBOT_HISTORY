@@ -1,5 +1,4 @@
 # QQBOT_HISTORY
-# QQBOT_HISTORY
 来自 知乎用户 Moqzekun  
 
 链接：https://www.zhihu.com/question/411466505/answer/1378815302  
