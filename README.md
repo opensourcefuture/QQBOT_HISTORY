@@ -1,5 +1,10 @@
 # QQBOT_HISTORY
+# QQBOT_HISTORY
+来自 知乎用户 Moqzekun  
 
+链接：https://www.zhihu.com/question/411466505/answer/1378815302  
+
+***
 唉，群聊机器人の末日
 ***
 首先是晨风机器人的作者被抓。  
@@ -44,7 +49,4 @@
 
 
 
-作者：Moqzekun
-链接：https://www.zhihu.com/question/411466505/answer/1378815302
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
